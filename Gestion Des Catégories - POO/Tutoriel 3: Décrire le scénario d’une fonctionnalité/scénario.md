@@ -14,4 +14,4 @@
 **Résultat attendu :** L’article est enregistré et l’Auteur est redirigé vers la gestion des articles.
 
 
-![scénario](./scénario-diagram-1.png)
+![scénario](./mermaid-diagram-1.png)
