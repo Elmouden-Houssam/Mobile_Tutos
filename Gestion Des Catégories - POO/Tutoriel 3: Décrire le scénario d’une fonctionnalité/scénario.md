@@ -12,3 +12,6 @@
 6. le systeme redirige l'auteur vers la list des articles .
 
 **Résultat attendu :** L’article est enregistré et l’Auteur est redirigé vers la gestion des articles.
+
+
+![scénario](./scénario-diagram-1.png)
